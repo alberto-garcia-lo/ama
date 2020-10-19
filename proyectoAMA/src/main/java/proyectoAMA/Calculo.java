@@ -2,5 +2,7 @@ package proyectoAMA;
 
 public class Calculo {
 
-	//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	public int suma(int x, int y) {
+		return x+y;
+	}
 }
