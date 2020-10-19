@@ -2,5 +2,8 @@ package proyectoAMA;
 
 public class Calculo {
 
-	//aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+	public int multiplicar(int x, int y) {
+		return x*y;
+	}
+	
 }
